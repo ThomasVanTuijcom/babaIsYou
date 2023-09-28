@@ -1,0 +1,8 @@
+#ifndef ENTITYNATURE_H
+#define ENTITYNATURE_H
+
+enum class EntityNature{
+    LIMIT, BABA, FLAG, WALL, ROCK, METAL, GRASS, WATER,LAVA, IS, PUSH, STOP, WIN, YOU, KILL, SINK
+};
+
+#endif // ENTITYNATURE_H
